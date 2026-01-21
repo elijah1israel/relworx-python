@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.7"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Elijah Israel", email = "elijah1israel@users.noreply.github.com"}
 ]
 keywords = ["relworx", "payments", "mobile-money", "africa", "mtn", "airtel", "mpesa"]
 classifiers = [
@@ -50,10 +50,10 @@ test = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/relworx-python"
-Documentation = "https://github.com/yourusername/relworx-python#readme"
-Repository = "https://github.com/yourusername/relworx-python.git"
-"Bug Tracker" = "https://github.com/yourusername/relworx-python/issues"
+Homepage = "https://github.com/elijah1israel/relworx-python"
+Documentation = "https://github.com/elijah1israel/relworx-python#readme"
+Repository = "https://github.com/elijah1israel/relworx-python.git"
+"Bug Tracker" = "https://github.com/elijah1israel/relworx-python/issues"
 
 [tool.setuptools]
 packages = ["relworx"]

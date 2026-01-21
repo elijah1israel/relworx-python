@@ -4,8 +4,8 @@ Thank you for your interest in contributing! Here's how to get started.
 
 ## Getting Started
 
-1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/relworx-python.git`
+1. Fork the repository at https://github.com/elijah1israel/relworx-python
+2. Clone your fork: `git clone https://github.com/elijah1israel/relworx-python.git`
 3. Create a virtual environment: `python -m venv venv`
 4. Activate it: `source venv/bin/activate` (or `venv\Scripts\activate` on Windows)
 5. Install dev dependencies: `pip install -e ".[dev,test]"`

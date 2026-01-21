@@ -300,7 +300,7 @@ Main client class for interacting with the Relworx API.
 
 Contributions are welcome! Please:
 
-1. Fork the repository
+1. Fork the repository at https://github.com/elijah1israel/relworx-python
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Make your changes
 4. Write/update tests
@@ -315,8 +315,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 - 📖 [API Documentation](https://payments.relworx.com/docs/)
-- 🐛 [Report Issues](https://github.com/yourusername/relworx-python/issues)
-- 💬 [Discussions](https://github.com/yourusername/relworx-python/discussions)
+- 🐛 [Report Issues](https://github.com/elijah1israel/relworx-python/issues)
+- 💬 [Discussions](https://github.com/elijah1israel/relworx-python/discussions)
 
 ## Changelog
 

@@ -14,7 +14,7 @@ from .exceptions import (
 )
 
 __version__ = "0.1.0"
-__author__ = "Your Name"
+__author__ = "Elijah Israel"
 __license__ = "MIT"
 
 __all__ = [
